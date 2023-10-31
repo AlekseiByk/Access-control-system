@@ -1,0 +1,25 @@
+2023-03-26 18:37:29,766 >>> 15688 server       - client connected <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.107', 16394), raddr=('192.168.0.106', 49153)>
+2023-03-26 18:37:30,273 >>> 15688 Server       - message -> b'/log/e0d0a0eda103/initialized'
+2023-03-26 18:37:35,800 >>> 15907 server       - client connected <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.107', 16394), raddr=('192.168.0.106', 49154)>
+2023-03-26 18:37:35,802 >>> 15907 Server       - message -> b'/log/e0d0a0eda103/initialized'
+2023-03-26 18:40:42,782 >>> 16340 server       - client connected <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.107', 16394), raddr=('192.168.0.106', 49157)>
+2023-03-26 18:40:42,784 >>> 16340 Server       - message -> b'/log/e0d0a0eda103/initialized'
+2023-03-26 18:41:15,770 >>> 16340 server       - client connected <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.107', 16394), raddr=('192.168.0.108', 49153)>
+2023-03-26 18:41:16,265 >>> 16340 Server       - message -> b''
+2023-03-26 18:41:16,265 >>> 16340 server       - bad client
+2023-03-26 18:41:22,041 >>> 16340 server       - client connected <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.107', 16394), raddr=('192.168.0.108', 49153)>
+2023-03-26 18:41:22,555 >>> 16340 Server       - message -> b'/log/e0d0a0eda003/initialized'
+2023-03-26 21:33:38,415 >>> 21674 server       - client connected <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.107', 16394), raddr=('192.168.0.108', 49156)>
+2023-03-26 21:33:38,417 >>> 21674 Server       - message -> b'/log/e0d0a0eda003/initialized'
+2023-03-26 21:37:23,443 >>> 22167 server       - client connected <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.107', 16394), raddr=('192.168.0.106', 49153)>
+2023-03-26 21:37:23,951 >>> 22167 Server       - message -> b'/log/e0d0a0eda003/initialized'
+2023-03-26 21:48:12,765 >>> 23246 server       - client connected <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.107', 16394), raddr=('192.168.0.106', 49155)>
+2023-03-26 21:48:12,767 >>> 23246 Server       - message -> b'/log/e0d0a0eda003/initialized'
+2023-03-26 21:48:23,710 >>> 23305 server       - client connected <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.107', 16394), raddr=('192.168.0.106', 49157)>
+2023-03-26 21:48:23,711 >>> 23305 Server       - message -> b'/log/e0d0a0eda003/initialized'
+2023-03-26 22:14:07,137 >>> 23305 server       - client connected <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.107', 16394), raddr=('192.168.0.106', 49153)>
+2023-03-26 22:14:08,431 >>> 23305 Server       - message -> b'/log/e0d0a0eda003/initialized'
+2023-03-26 22:16:24,346 >>> 23305 server       - client connected <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.107', 16394), raddr=('192.168.0.106', 49153)>
+2023-03-26 22:16:28,434 >>> 23305 Server       - message -> b'/log/e0d0a0eda003/initialized'
+2023-03-26 22:33:55,774 >>> 23305 server       - client connected <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.107', 16394), raddr=('192.168.0.106', 49153)>
+2023-03-26 22:33:57,101 >>> 23305 Server       - message -> b'/log/e0d0a0eda003/initialized'

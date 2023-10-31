@@ -1,0 +1,47 @@
+2023-03-26 18:26:11,898 >>> 13980 server       - Start
+2023-03-26 18:32:00,269 >>> 15283 server       - Start
+2023-03-26 18:36:46,480 >>> 15688 server       - Start
+2023-03-26 18:37:30,274 >>> 15688 server       - initialize client name -> e0d0a0eda103
+2023-03-26 18:37:35,252 >>> 15907 server       - Start
+2023-03-26 18:37:35,802 >>> 15907 server       - initialize client name -> e0d0a0eda103
+2023-03-26 18:40:41,537 >>> 16340 server       - Start
+2023-03-26 18:40:42,784 >>> 16340 server       - initialize client name -> e0d0a0eda103
+2023-03-26 18:41:22,555 >>> 16340 server       - initialize client name -> e0d0a0eda003
+2023-03-26 18:41:36,438 >>> 16340 e0d0a0eda003 - message -> b'/log/e0d0a0eda003/open/button/log/e0d0a0eda003/open/button/log/e0d0a0eda003/open/button'
+2023-03-26 18:41:36,487 >>> 16340 e0d0a0eda003 - message -> b'/log/e0d0a0eda003/open/button'
+2023-03-26 18:41:51,591 >>> 16340 e0d0a0eda003 - message -> b'/log/e0d0a0eda003/close/timer'
+2023-03-26 21:32:20,094 >>> 16340 e0d0a0eda003 - message -> b'/log/e0d0a0eda003/open/button'
+2023-03-26 21:32:36,208 >>> 16340 e0d0a0eda003 - message -> b'/log/e0d0a0eda003/close/timer'
+2023-03-26 21:33:34,135 >>> 21674 server       - Start
+2023-03-26 21:33:38,417 >>> 21674 server       - initialize client name -> e0d0a0eda003
+2023-03-26 21:35:33,226 >>> 22083 server       - Start
+2023-03-26 21:36:41,352 >>> 22167 server       - Start
+2023-03-26 21:37:23,951 >>> 22167 server       - initialize client name -> e0d0a0eda003
+2023-03-26 21:47:09,931 >>> 22167 e0d0a0eda003 - message -> b'/request/e0d0a0eda003/69a073a0'
+2023-03-26 21:47:09,931 >>> 22167 e0d0a0eda003 - open request: 69a073a0
+2023-03-26 21:48:11,232 >>> 23246 server       - Start
+2023-03-26 21:48:12,767 >>> 23246 server       - initialize client name -> e0d0a0eda003
+2023-03-26 21:48:20,028 >>> 23305 server       - Start
+2023-03-26 21:48:23,711 >>> 23305 server       - initialize client name -> e0d0a0eda003
+2023-03-26 21:48:46,720 >>> 23305 e0d0a0eda003 - message -> b'/log/e0d0a0eda003/open/69a073a0'
+2023-03-26 21:48:56,259 >>> 23305 e0d0a0eda003 - message -> b'/log/e0d0a0eda003/close/timer'
+2023-03-26 22:14:08,431 >>> 23305 server       - initialize client name -> e0d0a0eda003
+2023-03-26 22:16:24,143 >>> 23305 e0d0a0eda003 - client disconnected
+2023-03-26 22:16:24,144 >>> 23305 e0d0a0eda003 - [Errno 104] Соединение разорвано другой стороной
+Traceback (most recent call last):
+  File "TCP_server.py", line 65, in accept_read
+    recv_data = soc.recv(1024)
+ConnectionResetError: [Errno 104] Соединение разорвано другой стороной
+2023-03-26 22:16:28,434 >>> 23305 server       - initialize client name -> e0d0a0eda003
+2023-03-26 22:16:55,100 >>> 23305 e0d0a0eda003 - message -> b'/log/e0d0a0eda003/open/button'
+2023-03-26 22:16:55,101 >>> 23305 e0d0a0eda003 - message -> b'/log/e0d0a0eda003/open/button/log/e0d0a0eda003/open/button'
+2023-03-26 22:17:04,379 >>> 23305 e0d0a0eda003 - message -> b'/log/e0d0a0eda003/close/timer'
+2023-03-26 22:21:22,346 >>> 23305 e0d0a0eda003 - message -> b'/log/e0d0a0eda003/open/button'
+2023-03-26 22:21:24,789 >>> 23305 e0d0a0eda003 - message -> b'/log/e0d0a0eda003/close/timer'
+2023-03-26 22:33:53,651 >>> 23305 e0d0a0eda003 - client disconnected
+2023-03-26 22:33:53,651 >>> 23305 e0d0a0eda003 - [Errno 104] Соединение разорвано другой стороной
+Traceback (most recent call last):
+  File "TCP_server.py", line 65, in accept_read
+    recv_data = soc.recv(1024)
+ConnectionResetError: [Errno 104] Соединение разорвано другой стороной
+2023-03-26 22:33:57,102 >>> 23305 server       - initialize client name -> e0d0a0eda003
